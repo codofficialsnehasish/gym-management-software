@@ -1,0 +1,1 @@
+<link href="<?= base_url('assets/libs/chartist/chartist.min.css');?>" rel="stylesheet">
